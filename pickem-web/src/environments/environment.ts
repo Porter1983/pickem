@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  pickemRestServerBaseUrl: "http://localhost:51890/api",
-  pickemBaseDomain: "localhost:51890",
-  pickemWebSocketUrl: "ws://localhost:51890/ws",
+  pickemRestServerBaseUrl: "http://localhost:51891/api",
+  pickemBaseDomain: "localhost:51891",
+  pickemWebSocketUrl: "ws://localhost:51891/ws",
 };
